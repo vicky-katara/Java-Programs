@@ -51,6 +51,8 @@ This is a list of programs that I have written in Java. Not for reproduction. Pl
 - FibonacciDP.java: My implementation of generating the nth Fibonacci number using Dynamic Programming
 - HashTable.java: My implementation of a HashTable using my implementation of LinkedLists.
 - InsertionSort.java: My implementation of simple insertion sort.
+- LongestNonDecDP.java: My solution to the Longest Non Decreasing Subsequence problem using Dynamic Programming
+- MatrixMult_Memoized.java: A memoized solution to the Matrix Chain multiplication optimization problem.
 - MergeSort.java: Merge Sort using Java
 - Power.java: My implementation of a power calculator using divide and conquer mechanism
 - UglyNumbers.java: My solution to the infamous Ugly Numbers problem using Dynamic Programming. Problem Description: <http://www.geeksforgeeks.org/ugly-numbers/>
