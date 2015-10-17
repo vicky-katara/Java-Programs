@@ -40,7 +40,7 @@
 
 # Java-Programs
 
-This is a list of programs that I have written in Java. Not for reproduction. Please email me in case of any confusion. This list is dynamic..
+This is a list of programs that I have written in Java. Not for reproduction. Free for referencing. Please email me in case of any clarifications (vicky.p.katara@gmail.com). This list is dynamic..
 
 - Binary.java / BinaryAddition.java: My implementation of addition of binary numbers.
 - BinarySearch.java: My implementation of Binary Search Algorithm.
